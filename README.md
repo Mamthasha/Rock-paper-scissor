@@ -1,1 +1,1 @@
-# RocPapSis
+# Rock-paper-scissor
